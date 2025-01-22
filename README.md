@@ -1,4 +1,4 @@
-# Coffee Shop Sales Report
+# Coffee Shop Sales Project
 
 ## Project Background
 As a Data Analyst exploring sales trends in the coffee industry, I analysed transaction data from three NYC coffee shop locations: Astrovia, Hell's Kitchen, and Lower Manhattan. The dataset includes transaction details such as sales dates, times, quantities, store information, product categories, and revenue. The objective of this analysis was to uncover actionable insights into customer purchasing behaviour, product performance, and store-specific trends to optimise inventory, refine marketing strategies, and boost overall revenue generation.
