@@ -1,7 +1,7 @@
 # Coffee Shop Sales Report
 
 ## Project Background
-As a Data Analyst exploring sales trends in the retail coffee industry, I analysed transaction data from three fictitious NYC coffee shop locations: Astrovia, Hell's Kitchen, and Lower Manhattan. The dataset includes transaction details such as sales dates, times, quantities, store information, product categories, and revenue. The objective of this analysis was to uncover actionable insights into customer purchasing behaviour, product performance, and store-specific trends to optimise inventory, refine marketing strategies, and boost overall revenue generation.
+As a Data Analyst exploring sales trends in the coffee industry, I analysed transaction data from three NYC coffee shop locations: Astrovia, Hell's Kitchen, and Lower Manhattan. The dataset includes transaction details such as sales dates, times, quantities, store information, product categories, and revenue. The objective of this analysis was to uncover actionable insights into customer purchasing behaviour, product performance, and store-specific trends to optimise inventory, refine marketing strategies, and boost overall revenue generation.
 
 ## Executive Summary
 This analysis provides insights into sales trends, customer preferences, and product performance across three NYC coffee shops. Key findings include:
@@ -61,8 +61,8 @@ Enhance marketing campaigns for Jamaican Coffee River, Morning Sunrise Chai, and
   - Product Trends: Preferences are based solely on transaction data and do not account for external factors like promotions or marketing campaigns.
 
 ## Resources
-- See [the original dataset]()
-- See [my cleaning, analysis, and pivot tables]()
-- See [my Google Sheet dashboard]()
-- See [my SQL queries]()
-- See [my Tableau dashboard]()
+- See [the original dataset](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/original_coffee_sales.xlsx%20-%20dataset.csv)
+- See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/coffee_shop_sales_clean.xlsx)
+- See [my Google Sheet dashboard](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/GoogleSheetDashboard.png)
+- See [my SQL queries](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/coffeeSales.sql)
+- See [my Tableau dashboard](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/TableauDashboard.png)
