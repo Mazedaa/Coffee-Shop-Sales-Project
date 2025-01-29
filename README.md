@@ -65,4 +65,4 @@ Enhance marketing campaigns for Jamaican Coffee River, Morning Sunrise Chai, and
 - See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/coffee_shop_sales_clean.xlsx)
 - See [my Google Sheet dashboard](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/GoogleSheetDashboard.png)
 - See [my SQL queries](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/coffeeSales.sql)
-- See [my Tableau dashboard](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/TableauDashboard.png)
+- See [my Tableau dashboard](https://github.com/Mazedaa/Coffee-Shop-Sales-Project/blob/main/TableauCoffeeDashboard.png)
